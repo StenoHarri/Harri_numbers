@@ -10,7 +10,7 @@ Left hand = Activate Harri numbers Right fingers = any two digit number Right th
 Featuring modes:
 Linking mode 12,345 would written in 3 strokes:
 Years mode 2024 would written in 1 stroke:
-![image](https://github.com/user-attachments/assets/e4d42bc1-e635-4f25-a915-3649e43abb49)
+![image](https://github.com/user-attachments/assets/b6abb6cb-6f84-46f6-bfc7-8ce8d006c390)
 
 12,000
    300
