@@ -1,16 +1,16 @@
 # Harri_numbers
 Inspired by Lapwing numbers, but 2 numpads instead of 1
-![image](https://github.com/user-attachments/assets/1e2a447d-2672-4b8a-952a-838fa72eccd3)
+![image](diagrams/Harri_numbers_explanation.png)
 
 
 Left hand = Activate Harri numbers Right fingers = any two digit number Right thumbs = stick up to three 0's on the end
-![image](https://github.com/user-attachments/assets/e0fe996c-3074-4daa-b867-ef0d08db44d5)
+![image](diagrams/Harri_numbers_layout.png)
 
 
 Featuring modes:
 Linking mode 12,345 would written in 3 strokes:
 Years mode 2024 would written in 1 stroke:
-![image](https://github.com/user-attachments/assets/b6abb6cb-6f84-46f6-bfc7-8ce8d006c390)
+![image](diagrams/Harri_numbers_extra_features.png)
 
 12,000
    300
