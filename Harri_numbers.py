@@ -51,7 +51,10 @@ starter_chord = {
 }
 
 linker_chord = { #by linker, I mean collapsing a 100 with 23 to output 123 (two strokes)
-    
+   #comment out the ones you want, or add more
+   #"#"       : True,
+   #"#PO"     : True,
+   #"#TKHRA"  : True
 }
 
 
