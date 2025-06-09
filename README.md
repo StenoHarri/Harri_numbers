@@ -7,10 +7,16 @@ Left hand = Activate Harri numbers Right fingers = any two digit number Right th
 ![image](diagrams/Harri_numbers_layout.png)
 
 
-Featuring modes:
-Linking mode 12,345 would written in 3 strokes:
-Years mode 2024 would written in 1 stroke:
-![image](diagrams/Harri_numbers_extra_features.png)
+Starters:
+Good for if you don't have a `#` key, or you want different modes, like typing in years or currencies
+![image](diagrams/Harri_numbers_starters.png)
+
+
+
+Connecting strokes:
+you can either stack strokes into each other (may have to define which starters use linking)
+Or you can link strokes one after another
+![image](diagrams/Harri_numbers_stacking_and_linking.png)
 
 12,000
    300
